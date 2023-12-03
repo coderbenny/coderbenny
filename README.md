@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coderbenny
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently A Software Engineering Student
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me ...
 
