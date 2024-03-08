@@ -1,6 +1,6 @@
 # Hi there, I'm Benny 👋
 
-I'm a passionate Software Engineering student with a keen interest in Web Development. I'm committed to leveraging my skills and knowledge to create innovative and efficient solutions.
+I'm a passionate Software Engineer with a keen interest in Web Development. I'm committed to leveraging my skills and knowledge to create innovative and efficient solutions.
 
 ## 🌱 Currently Learning
 
