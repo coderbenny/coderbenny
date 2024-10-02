@@ -14,7 +14,8 @@ Hi, I'm **Benny Mathew** – a passionate **Fullstack Developer** specializing i
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
@@ -24,22 +25,7 @@ Hi, I'm **Benny Mathew** – a passionate **Fullstack Developer** specializing i
 
 ---
 
-## 🏆 GitHub Stats:
-<!-- Uncomment these sections below if you want to display GitHub Stats -->
-<!-- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderbenny&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coderbenny&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderbenny&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
-
-<!--## 🏅 GitHub Trophies:-->
-<!-- Uncomment if you'd like to showcase GitHub Trophies -->
-<!-- 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=coderbenny&theme=radical&no-frame=false&no-bg=true&margin-w=4)
--->
-
----
-
-<!--[![](https://visitcount.itsvg.in/api?id=coderbenny&icon=0&color=0)](https://visitcount.itsvg.in) -->
+## 🏅 Profile Views:
+[![](https://visitcount.itsvg.in/api?id=coderbenny&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
