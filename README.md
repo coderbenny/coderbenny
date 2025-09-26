@@ -1,31 +1,89 @@
-## 🌟 About Me
-Hi, I'm **Benny Mathew** – a passionate **Fullstack Developer** specializing in building powerful and scalable web applications. I love working with cutting-edge technologies and solving complex problems with clean, efficient code. Currently, I focus on delivering impactful user experiences using **React**, **Python**, and **Flask**, while continuously exploring new tools to enhance my development skills.
+# Hi there, I'm Benny Hinn 👋
 
-📫 **Let's Connect**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benny-mathew)  
+## 🚀 Fullstack Software Engineer | VAS Solutions Developer | Creative Problem Solver
 
-## 💼 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next.js](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+**Currently building scalable VAS solutions at Zuri Health** while crafting innovative web applications that solve real-world problems.
+
+### 💡 About Me
+Transitioning from media production to software engineering has given me a unique perspective on user experience and technical execution. I specialize in building end-to-end solutions that are both functional and visually compelling.
 
 ---
 
-## 🏅 Profile Views:
-[![](https://visitcount.itsvg.in/api?id=coderbenny&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🛠️ Tech Arsenal
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Frontend Mastery:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Database:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**DevOps & Tools:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+**Specialized Skills:** VAS Solutions (SMS, USSD, IVR, MMS) | RESTful APIs | Firebase
+
+---
+
+## 🎯 Featured Projects
+
+### 🏨 [Gemify Africa](https://gemify.africa) - *Discovery & Booking Platform*
+Full-featured platform for unique venues and experiences across Kenya
+- **Tech:** Next.js, TailwindCSS, Framer Motion
+- **Features:** Real-time bookings, admin dashboard, room assignments
+
+### 💰 [Arbitredge](https://crypto-mu-sandy.vercel.app) - *Crypto Trading Platform*
+Peer-to-peer cryptocurrency trading platform with ad creation
+- **Tech:** Next.js, Flask, TailwindCSS
+- **Features:** User authentication, wallet integration, trade management
+
+### 🔧 [RepairHub](https://repairhub.co.ke) - *Service Marketplace*
+Connecting clients with repair technicians for electronics
+- **Tech:** Next.js, TailwindCSS
+- **Features:** Job posting, technician matching, service tracking
+
+### 🎮 [Playzone](https://playzoneke.vercel.app) - *Entertainment Booking*
+Discover and book gaming experiences in malls
+- **Tech:** Next.js, Flask, MySQL
+- **Features:** Time slot management, reservations, venue discovery
+
+---
+
+## 📈 Professional Highlights
+
+- **🏥 VAS Engineer at Zuri Health** - Building telecom infrastructure solutions
+- **📺 Media Background** - 3+ years in broadcast technology (Al Huda TV, Switch TV)
+- **🎓 Recent Graduate** - Software Engineering (Moringa School, 2024)
+- **📱 Telecom Experience** - SMS, USSD, IVR, and multimedia services integration
+
+---
+
+## 🎨 Beyond Code
+When I'm not coding, I'm exploring **music production**, **photography**, and staying ahead of **technology trends**. My media background brings a creative edge to technical problem-solving.
+
+---
+
+## 📊 GitHub Stats
+
+![Benny's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderbenny&show_icons=true&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://benny-eta.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benny-mathew)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhinnexclusive@gmail.com)
+
+---
+
+*"Transforming ideas into digital experiences, one line of code at a time."*
+
+![Profile views](https://komarev.com/ghpvc/?username=coderbenny&color=brightgreen)
