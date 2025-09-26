@@ -32,50 +32,6 @@ Transitioning from media production to software engineering has given me a uniqu
 
 ---
 
-## 🎯 Featured Projects
-
-### 🏨 [Gemify Africa](https://gemify.africa) - *Discovery & Booking Platform*
-Full-featured platform for unique venues and experiences across Kenya
-- **Tech:** Next.js, TailwindCSS, Framer Motion
-- **Features:** Real-time bookings, admin dashboard, room assignments
-
-### 💰 [Arbitredge](https://crypto-mu-sandy.vercel.app) - *Crypto Trading Platform*
-Peer-to-peer cryptocurrency trading platform with ad creation
-- **Tech:** Next.js, Flask, TailwindCSS
-- **Features:** User authentication, wallet integration, trade management
-
-### 🔧 [RepairHub](https://repairhub.co.ke) - *Service Marketplace*
-Connecting clients with repair technicians for electronics
-- **Tech:** Next.js, TailwindCSS
-- **Features:** Job posting, technician matching, service tracking
-
-### 🎮 [Playzone](https://playzoneke.vercel.app) - *Entertainment Booking*
-Discover and book gaming experiences in malls
-- **Tech:** Next.js, Flask, MySQL
-- **Features:** Time slot management, reservations, venue discovery
-
----
-
-## 📈 Professional Highlights
-
-- **🏥 VAS Engineer at Zuri Health** - Building telecom infrastructure solutions
-- **📺 Media Background** - 3+ years in broadcast technology (Al Huda TV, Switch TV)
-- **🎓 Recent Graduate** - Software Engineering (Moringa School, 2024)
-- **📱 Telecom Experience** - SMS, USSD, IVR, and multimedia services integration
-
----
-
-## 🎨 Beyond Code
-When I'm not coding, I'm exploring **music production**, **photography**, and staying ahead of **technology trends**. My media background brings a creative edge to technical problem-solving.
-
----
-
-## 📊 GitHub Stats
-
-![Benny's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderbenny&show_icons=true&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://benny-eta.vercel.app)
