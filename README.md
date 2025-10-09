@@ -1,133 +1,130 @@
-# 🔥 Benny Hinn | Fullstack Engineer & VAS Solutions Architect
+# Benny Hinn | Fullstack Software Engineer
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=VAS+Solutions+Engineer;Fullstack+Web+Developer;Creative+Problem+Solver;Building+Digital+Experiences)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=VAS+Solutions+Engineer+%40+Zuri+Health;Fullstack+Developer;Telecom+%26+Web+Solutions+Architect)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/benny-mathew)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat)](https://benny-eta.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:bhinnexclusive@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Nairobi%2C%20Kenya-4CAF50?style=flat)]()
 
 </div>
 
 ---
 
-## 🎯 **Who Am I?**
+## 👨‍💻 Professional Summary
 
-> **Currently architecting VAS solutions at Zuri Health** | Transforming telecom infrastructure while building cutting-edge web applications
+**Experienced Software Engineer** specializing in fullstack web development and Value-Added Services (VAS) solutions with a proven track record of delivering scalable, user-centric applications. Currently architecting telecom VAS infrastructure at **Zuri Health**, combining technical excellence with creative problem-solving honed through 3+ years in broadcast media technology.
 
-I'm a **Software Engineer** who brings a unique blend of **media production expertise** and **full-stack development mastery**. My journey from broadcast technology to software engineering has equipped me with an exceptional eye for user experience and technical precision.
-
----
-
-## ⚡ **Technical Arsenal**
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### 🎨 **Frontend Mastery**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**UI Frameworks & Libraries:**
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
-
-</td>
-<td valign="top" width="33%">
-
-### ⚙️ **Backend & Database**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-**Database Technologies:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### 🚀 **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-**Cloud Platforms:**
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-1BCDFC?style=for-the-badge&logo=render&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-### 📱 **Specialized VAS Technologies**
-```
-SMS | MMS | USSD | IVR | RBT | RESTful APIs | Telecom Infrastructure Integration
-Google Search Console | JIRA | Project Management | Cross-functional Leadership
-```
+**Core Competencies:** Web Application Development | VAS Solutions Architecture | API Design & Integration | Database Design | Cloud Infrastructure | Cross-functional Team Leadership
 
 ---
 
-## 🏆 **Flagship Projects Portfolio**
+## 💼 Professional Experience
+
+**VAS Solutions Engineer** | Zuri Health | *Current*
+- Architecting and implementing VAS solutions integrating SMS, USSD, IVR, and RBT technologies
+- Managing end-to-end telecom infrastructure integrations with RESTful API design
+- Leading cross-functional teams using JIRA for project coordination and delivery
+- Optimizing system performance through Google Search Console analytics
+
+**Background:** 3+ years in broadcast technology, bringing unique UX perspective and technical precision to software engineering
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages & Frameworks
+**Frontend:** JavaScript (ES6+) · React · Next.js · HTML5 · CSS3  
+**Backend:** Python · PHP · Flask · Django  
+**Styling:** TailwindCSS · Material-UI · DaisyUI · Framer Motion  
+
+### Database & Storage
+PostgreSQL · MySQL · SQLAlchemy · Firebase
+
+### DevOps & Cloud
+Docker · Git · GitHub Actions · Google Cloud Platform · Firebase · Vercel · Render
+
+### Specialized Technologies
+SMS/MMS Gateway Integration · USSD · IVR Systems · RBT (Ring Back Tone) · RESTful APIs · Telecom Infrastructure · JIRA · Google Search Console
+
+---
+
+## 🚀 Featured Projects
+
+### [Gemify Africa](https://gemify.africa) | Venue Discovery Platform
+**Tech Stack:** Next.js, TailwindCSS, Framer Motion  
+**Description:** Comprehensive venue discovery and booking platform serving the African market. Features advanced search, filtering, and real-time availability.  
+**Impact:** Connecting users with premium venues across major African cities
+
+### [Arbitredge](https://crypto-mu-sandy.vercel.app) | Crypto Trading Platform
+**Tech Stack:** Next.js, Flask, TailwindCSS, RESTful APIs  
+**Description:** P2P cryptocurrency trading platform with integrated ad marketplace for buyers and sellers.  
+**Key Features:** Secure transactions, real-time price feeds, user verification system
+
+### [RepairHub](https://repairhub.co.ke) | Service Marketplace
+**Tech Stack:** Next.js, TailwindCSS, API Integration  
+**Description:** Electronics repair service connector matching customers with certified technicians.  
+**Impact:** Streamlined booking system reducing service request time by 60%
+
+### [Playzone](https://playzoneke.vercel.app) | Gaming Venue Booking
+**Tech Stack:** Next.js, Flask, MySQL, TailwindCSS  
+**Description:** Real-time booking system for gaming venues with availability tracking and payment integration.  
+**Key Features:** Calendar integration, automated notifications, user dashboard
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
-| 🚀 **Project** | 🛠️ **Tech Stack** | 🎯 **Impact** | 🔗 **Live** |
-|:---:|:---:|:---:|:---:|
-| **Gemify Africa** | Next.js, Tailwind, Framer | Africa's premier venue discovery platform | [🌍 Visit](https://gemify.africa) |
-| **Arbitredge** | Next.js, Flask, TailwindCSS | P2P crypto trading with ad marketplace | [💰 Trade](https://crypto-mu-sandy.vercel.app) |
-| **RepairHub** | Next.js, TailwindCSS | Electronics repair service connector | [🔧 Explore](https://repairhub.co.ke) |
-| **Playzone** | Next.js, Flask, MySQL | Gaming venue booking system | [🎮 Play](https://playzoneke.vercel.app) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderbenny&show_icons=true&theme=vue&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderbenny&layout=compact&theme=vue&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coderbenny&theme=vue&hide_border=true)
 
 </div>
 
 ---
 
-## 📊 **GitHub Analytics**
+## 🎓 Professional Development
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderbenny&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🎯 **What Makes Me Different?**
-
-<div align="center">
-
-| 🎬 **Media Background** | 🔧 **Technical Precision** | 🚀 **Innovation Focus** |
-|:---:|:---:|:---:|
-| 3+ years broadcast tech | End-to-end development | Cutting-edge solutions |
-| User experience mindset | Quality-first approach | Problem-solving expert |
-| Creative problem solving | Cross-functional leadership | Continuous learning |
-
-</div>
+**Continuous Learning Focus:**
+- Advanced React patterns and Next.js optimization
+- Cloud architecture and microservices design
+- Telecom protocols and VAS integration standards
+- DevOps practices and CI/CD pipeline optimization
 
 ---
 
-## 📞 **Let's Build Something Amazing Together!**
+## 🌟 What Sets Me Apart
 
-<div align="center">
+**Unique Value Proposition:**
+- **Cross-domain expertise:** Bridging telecom VAS infrastructure with modern web development
+- **Media technology background:** Enhanced UX sensibility from 3+ years in broadcast tech
+- **Full-cycle ownership:** From requirements gathering to deployment and maintenance
+- **Proven delivery:** Multiple production applications serving real users across Africa
+- **Technical leadership:** Cross-functional team coordination and project management
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://benny-eta.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/benny-mathew)
-[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logoColor=white)](mailto:bhinnexclusive@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Nairobi,_Kenya-4CAF50?style=for-the-badge&logoColor=white)]()
+---
 
-</div>
+## 📫 Get In Touch
+
+I'm always interested in discussing new opportunities, challenging projects, or potential collaborations. Feel free to reach out!
+
+**Email:** bhinnexclusive@gmail.com  
+**LinkedIn:** [linkedin.com/in/benny-mathew](https://linkedin.com/in/benny-mathew)  
+**Portfolio:** [benny-eta.vercel.app](https://benny-eta.vercel.app)  
+**Location:** Nairobi, Kenya (Open to remote opportunities)
 
 ---
 
 <div align="center">
-  
-**⭐ Star my repositories if you find them interesting!**
+
+**💡 Currently seeking opportunities in:** Fullstack Development · VAS Solutions · Technical Leadership · Fintech
+
+*⭐ If you find my work interesting, consider starring some repositories!*
 
 </div>
