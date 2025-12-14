@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=VAS+Solutions+Engineer+%40+Zuri+Health;Fullstack+Developer;Telecom+%26+Web+Solutions+Architect)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/benny-mathew)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat)](https://benny-eta.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat)](https://www.bennyhinn.life)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:bhinnexclusive@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Nairobi%2C%20Kenya-4CAF50?style=flat)]()
 
@@ -116,7 +116,7 @@ I'm always interested in discussing new opportunities, challenging projects, or 
 
 **Email:** bhinnexclusive@gmail.com  
 **LinkedIn:** [linkedin.com/in/benny-mathew](https://linkedin.com/in/benny-mathew)  
-**Portfolio:** [benny-eta.vercel.app](https://benny-eta.vercel.app)  
+**Portfolio:** [benny-eta.vercel.app](https://www.bennyhinn.life)  
 **Location:** Nairobi, Kenya (Open to remote opportunities)
 
 ---
