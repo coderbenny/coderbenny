@@ -116,7 +116,7 @@ I'm always interested in discussing new opportunities, challenging projects, or 
 
 **Email:** bhinnexclusive@gmail.com  
 **LinkedIn:** [linkedin.com/in/benny-mathew](https://linkedin.com/in/benny-mathew)  
-**Portfolio:** [benny-eta.vercel.app](https://www.bennyhinn.life)  
+**Portfolio:** [www.bennyhinn.life](https://www.bennyhinn.life)  
 **Location:** Nairobi, Kenya (Open to remote opportunities)
 
 ---
